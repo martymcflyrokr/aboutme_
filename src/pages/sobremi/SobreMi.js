@@ -61,7 +61,7 @@ const SobreMi = (() => {
                 </Col>
                 <Col sm={12} md={12} lg={6} xl={6} className="columna-imagen">
                     <div className="contenedor-img">
-                        <img src="foto_mm.jpg" className="imagen-mia"/>
+                        <img src="foto_mm.jpg" className="imagen-mia" alt="unafoto"/>
                     </div>
                 </Col>
             </Row>
